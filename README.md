@@ -35,7 +35,7 @@
 
 - 采用SpringBoot、Shiro、MyBatis-Plus框架，开发的前后端分离外卖点单系统，采用Shiro进行权限管理，使用uni-app开发微信小程序，支持微信登录、Redis缓存、quartz定时、导出数据等功能。
 - 提供了代码生成器，只需编写30%左右代码，其余的代码交给系统自动生成，可快速完成开发任务
-- 后台地址：http://localhost:8001（账号密码：admin/admin）
+- 后台地址：http://localhost:8080（账号密码：admin/admin）
 - 后台接口文档地址：http://localhost:8080/api/doc.html
 - 微信小程序接口文档地址：http://localhost:8081/api/doc.html
 
